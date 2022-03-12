@@ -22,7 +22,7 @@ Interpretability is partially important.
 
 
 #### Data Overview
-- Data will be in a file Train.csv
+- Data will be in a file train.csv, which we got from Compass.
 - Train.csv contains 5 columns : qid1, qid2, question1, question2, is_duplicate
 - Size of Train.csv - 60MB2.2.1 Type of Machine Leaning Problem
 - Number of rows in Train.csv = 404,290
