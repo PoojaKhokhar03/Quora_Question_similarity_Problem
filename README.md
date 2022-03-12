@@ -36,4 +36,12 @@ we will use LSTM to solve this problem,because LSTMs are very effective in seque
 
 After modelling, then I predicted my data set. 
 
+#### Conclusion
+- Deep Learning is very slow.
+- To create corpus of vectors was also very time consuming.
+- we can add more features to improve model’s performance.
+- We can try to add more layers ar any other model to improve the performance.
+
+
+
 
